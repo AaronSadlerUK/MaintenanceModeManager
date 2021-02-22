@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaintenanceModeManager.TestSite", "MaintenanceModeManager.TestSite\MaintenanceModeManager.TestSite.csproj", "{2A42FC33-97E8-4122-A6E4-8277C7356D56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaintenanceModeManager", "MaintenanceModeManager\MaintenanceModeManager.csproj", "{5457DF28-F701-475C-87BE-3041D90893F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A42FC33-97E8-4122-A6E4-8277C7356D56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A42FC33-97E8-4122-A6E4-8277C7356D56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A42FC33-97E8-4122-A6E4-8277C7356D56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A42FC33-97E8-4122-A6E4-8277C7356D56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5457DF28-F701-475C-87BE-3041D90893F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5457DF28-F701-475C-87BE-3041D90893F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5457DF28-F701-475C-87BE-3041D90893F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5457DF28-F701-475C-87BE-3041D90893F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BF2D29B-A693-43DE-B78B-A1674C8E14A1}
+	EndGlobalSection
+EndGlobal
